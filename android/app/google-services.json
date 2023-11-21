@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533328201740",
+    "project_id": "klina-cafdf",
+    "storage_bucket": "klina-cafdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533328201740:android:0d87b9c53a97281fd38629",
+        "android_client_info": {
+          "package_name": "dev.kiishi.klina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzw7M1Wbd8uXTWshHJGdgGRRwfwpgJviU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
