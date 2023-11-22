@@ -1,6 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:klina/features/auth/views/login_view.dart';
 import 'package:klina/firebase_options.dart';
 
 void main() async {
@@ -27,7 +28,7 @@ class _KlinaState extends ConsumerState<Klina> {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const SizedBox(),
+      home: const LoginView(),
     );
   }
 }

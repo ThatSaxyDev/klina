@@ -1,8 +1,29 @@
 import 'package:flutter/material.dart';
 
-//! neutral
+//! main colors
+const lighterBrownColor = Color(0xffDAD3D3);
 const neutralWhite = Color(0xffFFFFFF);
 const neutralBlack = Color(0xff000000);
+const brownColor = Color(0xff767475);
+const blueColor = Color(0xFF212362);
+const lighterBlueColor = Color(0xFF343892);
+const purpleColor = Color(0xFFD3D4FE);
+const lighterPurpleColor = Color(0xFFF1F2FF);
+const backG = Color(0xFFF1F1FF);
+const numpadBlueGrey = Color(0xFFD2D4FD);
+
+//! transactions
+const pinkColor = Color(0xFFFFF1F1);
+const lightGreen = Color(0xFFF1FFFB);
+const greenColor = Color(0xFF2CB629);
+const redColor = Color(0xFFB20A0A);
+
+//! inactive
+const brownInactive = Color(0xFFDAD3D3);
+const mainGrey = Color(0xFF767475);
+const dynamicPurple = Color(0xFFF1EAFF);
+const dynamicPurpleDark = Color(0xFFD3C2FB);
+const orangeShade = Color(0xFFF2E1E1);
 
 //! primary
 const primary100 = Color(0xFFffab91);

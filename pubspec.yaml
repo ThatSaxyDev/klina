@@ -31,6 +31,10 @@ dependencies:
   flextras: ^1.0.0
   extra_alignments: ^1.0.0+1
   url_launcher: ^6.2.1
+  intl: ^0.18.1
+  another_flushbar: ^1.12.30
+  flutter_svg: ^2.0.9
+  pinput: ^3.0.1
 
 dev_dependencies:
   flutter_test:
